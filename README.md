@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) ![](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff) ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/-Visual%20Studio%20Code%20Insider-24BFA5?style=flat-square&logo=visual-studio-code) ![](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=Kubernetes&logoColor=fff) ![](https://img.shields.io/badge/-Electron-000000?style=flat-square&logo=Electron&logoColor=fff) ![](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=fff)  ![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=Typescript&logoColor=fff) ![](https://img.shields.io/badge/-Hyperledger-000000?style=flat-square&logo=Hyperledger&logoColor=fff)
 
+- 🌱 I’m currently learning rust. ![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
 <br>
 
 ##### GitHub Stats
