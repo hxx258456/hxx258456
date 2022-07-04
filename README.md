@@ -1,6 +1,6 @@
 # Hi there! I'm s1ren~ 👋
 <br>
-<img src="https://github.com/hxx258456/hxx258456/blob/main/assests/batman.jpg?raw=true" height="40%" width="100%">
+<img src="https://github.com/hxx258456/hxx258456/blob/main/assests/batman2.jpg?raw=true" height="20%" width="100%">
 
 <br>
 
