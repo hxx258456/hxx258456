@@ -1,9 +1,30 @@
-# Hi there! I'm s1ren~ 👋
+
+<h1 align="center"># Hi there! I'm s1ren~ 👋</h1>
 <br>
 
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff) ![](https://img.shields.io/badge/-Linux-2496ED?style=flat-square&logo=Linux&logoColor=black) ![](https://img.shields.io/badge/-Go-2496ED?style=flat-square&logo=Go&logoColor=fff) ![](https://img.shields.io/badge/-Git-2496ED?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=fff) ![](https://img.shields.io/badge/-Electron-2496ED?style=flat-square&logo=Electron&logoColor=white) ![](https://img.shields.io/badge/-vue.js-2496ED?style=flat-square&logo=vue.js&logoColor=green) ![](https://img.shields.io/badge/-javascript-2496ED?style=flat-square&logo=javascript&logoColor=fff) ![](https://img.shields.io/badge/-Hyperledger-2496ED?style=flat-square&logo=Hyperledger&logoColor=white)
+<h1 align="center">Tech Stack</h1>
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="kubernetes" style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger fabric" style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" alt="couchdb" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" style="height: 4rem"/>
+</p>
 
-- 🌱 I’m currently learning Rust.  ![](https://img.shields.io/badge/-Rust-2496ED?style=flat-square&logo=Rust&logoColor=yellow)
+<h1 align="center">Learning</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" style="height: 4rem" />
+</p>
 
 <br>
 
