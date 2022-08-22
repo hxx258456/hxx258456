@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! I'm s1ren~ 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=220B1DE4&center=true&vCenter=true&lines=A+Go+Software+Engineer;An+Blockchain+Development+Engineer;I+Am+Learning+Rust)](https://github.com/hxx258456)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=220B1DE4&center=true&vCenter=true&lines=A+Go+Software+Engineer;An+Blockchain+Development+Engineer)](https://github.com/hxx258456)
 </h1>
 <h1 align="center">Tech Stack</h1>
 <p align="center">
