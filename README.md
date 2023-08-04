@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" style="height: 4rem"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" style="height: 4rem"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" style="height: 4rem"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" style="height: 4rem"/>
 </p>
 
 <br>
